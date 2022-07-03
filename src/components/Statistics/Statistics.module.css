@@ -1,0 +1,19 @@
+.statistics {
+  border: solid 1px blue;
+}
+.title {
+  text-align: center;
+}
+.item {
+  display: flex;
+  padding: 15px;
+  align-items: center;
+  flex-direction: column;
+}
+.table {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+  border-top: solid 1px blue;
+}
